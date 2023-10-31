@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mongodb/mongodb": "^1.12",
+        "symfony/filesystem": "^6.3"
+    }
+}
